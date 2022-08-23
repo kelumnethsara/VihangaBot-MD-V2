@@ -18,20 +18,20 @@ global.APIKeys = {
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.REACT_NUMBER = '94775921044' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
-global.img = 'https://telegra.ph/file/88d6fdeff08bbc4945901.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
-global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
+global.owner = ['94775921044',''] //මෙතන number එක.
+global.premium = ['94770674246','94775921044'] //මෙතන number එක.
+global.botname = 'KELUM WHATSAPP BOT' //මෙතන නම.
+global.ownername = 'Kelum Nethsara' //මෙතන නම.
+global.ownername = 'kelum nethsara' //මෙතන නම.
+global.group1 = 'https://chat.whatsapp.com/D3KsDm4MT8kFyD7U39Y6Yu' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/D3KsDm4MT8kFyD7U39Y6Yu' //මෙතන grouplink එක.
+global.packname = 'KELUM WHATSAPP BOT' //මෙතන නම.
+global.cap = '*KELUM WHATSAPP BOT*' //මෙතන නම.
+global.img = 'https://telegra.ph/file/f9ed5082d633b3e5d5e6f.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.ytchannel = 'https://youtube.com/channel/UCForjzkPImVR0a72hQyyQHw' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
 global.besiAwal = '15' //මෙතන මාරු කරන්න එපා.
